@@ -406,3 +406,8 @@
   from = "/blog/gitlab-integration/+"
   to = "/blog/gitlab-integration/"
   status = 301
+
+[[redirects]]
+  from = "docs/languages/javascript/#making-live-reload-work-in-rollup-based-projects-like-svelte"
+  to = "/docs/languages/svelte/#making-live-reload-work"
+  status = 301
